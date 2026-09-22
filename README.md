@@ -18,4 +18,4 @@ An end-to-end Machine Learning web application built with **Python** and **Strea
 ## 📦 Quick Start & Deployment
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/gym-churn-ai.git](https://github.com/YOUR_USERNAME/gym-churn-ai.git)
+   git clone [(https://github.com/saqeralabdallatdata-jpg/gym-churn))
